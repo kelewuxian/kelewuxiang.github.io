@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# BoHu 
 
-You can use the [editor on GitHub](https://github.com/kelewuxian/kelewuxiang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It's a simple jekyll blog theme. 
+  
+A style of ZhiHu - the best-known website to share knowledge in China.   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the ZhiHu, you can learn knowledge from all over the world.   
 
-### Markdown
+In the BoHu, you can share knowledge to all over the world!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. **Use paging as 1,2,3,4,5......**   
+1. **Searchable for blog.**    
+1. **Classification is supported.**   
+1. **Good compatibility on mobile devices.**    
+1. **Built-in wordart for English and Chinese.**   
+1. **Music player.**   
+**......**
 
-```markdown
-Syntax highlighted code block
+**Make it yours in under 10 minutes.**  
 
-# Header 1
-## Header 2
-### Header 3
+# Author
 
-- Bulleted
-- List
+[Clark Zhao](http://zhaoyuxiang.cn)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# License
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kelewuxian/kelewuxiang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Use MIT License.
